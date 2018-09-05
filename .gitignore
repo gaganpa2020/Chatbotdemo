@@ -1,0 +1,5 @@
+BotApplication1/bin/*
+packages/*
+BotApplication1/obj/*
+.vs/*
+BotApplication1/Properties/PublishProfiles/*
